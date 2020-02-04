@@ -10,7 +10,7 @@
     "server": "live-server ./ --port=8888",
     "c": "node build/create.js"
   },
-  "author": "ypzhou",
+  "author": "will1123",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.4.0",
